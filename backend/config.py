@@ -1,6 +1,6 @@
 # config.py
 class Config:
-    SECRET_KEY = 'your-secret-key'
+    SECRET_KEY = 'your-secret-key'#ยังไม่ได้ใใช้
     JWT_SECRET_KEY = 'your-jwt-secret'
     MONGODB_SETTINGS = {
         'db': 'mario_notes',
